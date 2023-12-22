@@ -8,7 +8,6 @@ import datetime
 import time
 import re
 import urllib3
-import rich
 import base64
 from time import sleep
 from rich.table import Table as me
